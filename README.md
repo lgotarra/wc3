@@ -226,7 +226,7 @@ Git - Exercise 1
     1.  Go to the file you want to edit and click on edit. This will
         create a fork so you can send a pull request later.
 
-    2.  Write a commit message and then click on"Propose file change".
+    2.  Write a commit message and then click on "Propose file change".
 
     3.  Click now on "Create pull request". You can modify the pull
         message here. By default, it would use your commit message.
